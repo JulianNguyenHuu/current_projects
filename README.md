@@ -10,3 +10,5 @@ The Idea is to have a a general XML Upload routine which can read any XML file a
 I am fairly unhappy with the state of documentation I have seen so far and as most people, Microsoft Word and I have our differences. I am looking into creating a LaTeX Template which accounts for code syntax, structure and generally everything that is somehow connected to SAP. This project is of very low priority, therefore this will take some time.
 
 
+3. Image Recognition of Invoice to SAP SD 18.04.2019
+Using images/scans of invoices, create XML, Upload to SD.
